@@ -4,6 +4,7 @@
   "description": "This app is a todo API for example class.",
   "main": "app.js",
   "scripts": {
+    "start": "node src/app.js",
     "test": "jest .",
     "dev": "supervisor src/app.js",
     "lint": "eslint ."
